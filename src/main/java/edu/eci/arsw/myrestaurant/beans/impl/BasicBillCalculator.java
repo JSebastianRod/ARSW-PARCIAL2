@@ -18,5 +18,4 @@ public class BasicBillCalculator implements BillCalculator {
 		}
 		return total;
 	}
-
 }
